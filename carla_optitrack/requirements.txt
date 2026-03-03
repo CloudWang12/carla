@@ -1,0 +1,5 @@
+﻿numpy
+pandas
+pygame
+torch
+tqdm
